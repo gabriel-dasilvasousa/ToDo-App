@@ -35,6 +35,14 @@ div#app ul input[type=checkbox]{
     margin-right: 5px;
     font-size: 15px;
 }
+div#app{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+}
+
 
 div#app ul li a{
     margin-left: 2px;
